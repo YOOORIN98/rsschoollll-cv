@@ -11,7 +11,6 @@ Cv
 > function multiply(a, b){
  return a * b
 }
-> 
 6. Experiance:
 - [CV](https://github.com/YOOORIN98/rsschool-cv/commit/9d13f22344c9b9ece312c31a171ced438ef0fa98)
 7. Education:
